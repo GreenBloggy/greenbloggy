@@ -480,7 +480,7 @@ section h3.section-subheading {
   .timeline > li .timeline-image {
     width: 100px;
     height: 100px;
-    left: 50%;
+    left: 0%;
     margin-left: -50px;
   }
   .timeline > li .timeline-image h4 {
